@@ -13,21 +13,19 @@ Use the key commands and mouse to play around with colors.
 
 KEY Commands
 ============
-= & -, increase & decrease number of shapes in the grid
-y & t, increase & decrease number of colors in palette
-i & u, increase & decrease color picking radius
-p & o, increase & decrease anchor offset of shapes
-up & down, increase & decrease shape size
-left & right, increase & decrease opacity of colors
-[ & ] cycle through svgs
-; & ' cycle  through color palette images
-
-h, toggle HUD
-j, toggle showing the brush layer (hide to see your art)
-k, toggle showing color palette
-l, toggle color palette lock (unlock to pick new colors, lock to set colors)
-
-c, clear the background
-f, fill the background with mouse color
-s, save the high quality image
+* = & -, increase & decrease number of shapes in the grid
+* y & t, increase & decrease number of colors in palette
+* i & u, increase & decrease color picking radius
+* p & o, increase & decrease anchor offset of shapes
+* up & down, increase & decrease shape size
+* left & right, increase & decrease opacity of colors
+* [ & ] cycle through svgs
+* ; & ' cycle  through color palette images
+* h, toggle HUD
+* j, toggle showing the brush layer (hide to see your art that is on the canvas)
+* k, toggle showing color palette
+* l, toggle color palette lock (unlock to pick new colors, lock to set colors)
+* c, clear the background
+* f, fill the background with mouse color
+* s, save the high quality image
 
